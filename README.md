@@ -18,3 +18,5 @@ Para rodar esta página, basta clonar este repositório para sua máquina e subs
 ```js
 const APP_PIXABAY_API_KEY = ""; // Coloque aqui sua API do Pixabay
 ```
+
+Depois de ter colocado sua key, basta abrir o HTML em um navegador e a página estará funcionado.
